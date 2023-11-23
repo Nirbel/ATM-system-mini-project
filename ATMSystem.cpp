@@ -17,6 +17,7 @@ using namespace std;
 
 
 
+
 class atm                                        // class atm
 {
 private:                                        // private member varibles
