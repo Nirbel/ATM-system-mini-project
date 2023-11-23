@@ -1,0 +1,3 @@
+C:/Users/Alpha/CLionProjects/Master C++ Programming From Beginner To Advance 2023 Edition_course/cmake-build-debug/CMakeFiles/Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course.dir
+C:/Users/Alpha/CLionProjects/Master C++ Programming From Beginner To Advance 2023 Edition_course/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alpha/CLionProjects/Master C++ Programming From Beginner To Advance 2023 Edition_course/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course-Debug-536658257e5d098574f0.json",
+					"name" : "Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Alpha/CLionProjects/Master C++ Programming From Beginner To Advance 2023 Edition_course/cmake-build-debug",
+		"source" : "C:/Users/Alpha/CLionProjects/Master C++ Programming From Beginner To Advance 2023 Edition_course"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
