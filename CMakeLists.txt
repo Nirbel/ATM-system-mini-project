@@ -4,4 +4,7 @@ project(Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course
-        "Mini project/ATMSystem.cpp")
+        "Mini project/ATMSystem.cpp"
+        constractor.cpp
+        "Student managment Project/StudentManagment.cpp"
+)
