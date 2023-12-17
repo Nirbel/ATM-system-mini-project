@@ -7,5 +7,5 @@ add_executable(Master_C___Programming_From_Beginner_To_Advance_2023_Edition_cour
         "Mini project/ATMSystem.cpp"
         constractor.cpp
         "Student managment Project/StudentManagment.cpp"
-        "Hacking Toll Project/KeyloggerInC++.cpp"
+        "Hacking Tool Project/KeyloggerInC++.cpp"
 )
