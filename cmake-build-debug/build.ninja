@@ -49,17 +49,23 @@ cmake_ninja_workdir = C$:/Users/Alpha/CLionProjects/Master$ C++$ Programming$ Fr
 
 build cmake_object_order_depends_target_Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course: phony || CMakeFiles/Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course.dir
 
-build CMakeFiles/Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course.dir/Section7_C++_Foundation_Programs/traning.cpp.obj: CXX_COMPILER__Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course_unscanned_Debug C$:/Users/Alpha/CLionProjects/Master$ C++$ Programming$ From$ Beginner$ To$ Advance$ 2023$ Edition_course/Section7$ C++$ Foundation$ Programs/traning.cpp || cmake_object_order_depends_target_Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course
-  DEP_FILE = CMakeFiles\Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course.dir\Section7_C++_Foundation_Programs\traning.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course.dir
-  OBJECT_FILE_DIR = CMakeFiles\Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course.dir\Section7_C++_Foundation_Programs
-
 build CMakeFiles/Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course.dir/Mini_project/ATMSystem.cpp.obj: CXX_COMPILER__Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course_unscanned_Debug C$:/Users/Alpha/CLionProjects/Master$ C++$ Programming$ From$ Beginner$ To$ Advance$ 2023$ Edition_course/Mini$ project/ATMSystem.cpp || cmake_object_order_depends_target_Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course
   DEP_FILE = CMakeFiles\Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course.dir\Mini_project\ATMSystem.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course.dir
   OBJECT_FILE_DIR = CMakeFiles\Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course.dir\Mini_project
+
+build CMakeFiles/Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course.dir/constractor.cpp.obj: CXX_COMPILER__Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course_unscanned_Debug C$:/Users/Alpha/CLionProjects/Master$ C++$ Programming$ From$ Beginner$ To$ Advance$ 2023$ Edition_course/constractor.cpp || cmake_object_order_depends_target_Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course
+  DEP_FILE = CMakeFiles\Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course.dir\constractor.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course.dir
+  OBJECT_FILE_DIR = CMakeFiles\Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course.dir
+
+build CMakeFiles/Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course.dir/Student_managment_Project/StudentManagment.cpp.obj: CXX_COMPILER__Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course_unscanned_Debug C$:/Users/Alpha/CLionProjects/Master$ C++$ Programming$ From$ Beginner$ To$ Advance$ 2023$ Edition_course/Student$ managment$ Project/StudentManagment.cpp || cmake_object_order_depends_target_Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course
+  DEP_FILE = CMakeFiles\Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course.dir\Student_managment_Project\StudentManagment.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course.dir
+  OBJECT_FILE_DIR = CMakeFiles\Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course.dir\Student_managment_Project
 
 
 # =============================================================================
@@ -69,7 +75,7 @@ build CMakeFiles/Master_C___Programming_From_Beginner_To_Advance_2023_Edition_co
 #############################################
 # Link the executable Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course.exe
 
-build Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course.exe: CXX_EXECUTABLE_LINKER__Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course_Debug CMakeFiles/Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course.dir/Section7_C++_Foundation_Programs/traning.cpp.obj CMakeFiles/Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course.dir/Mini_project/ATMSystem.cpp.obj
+build Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course.exe: CXX_EXECUTABLE_LINKER__Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course_Debug CMakeFiles/Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course.dir/Mini_project/ATMSystem.cpp.obj CMakeFiles/Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course.dir/constractor.cpp.obj CMakeFiles/Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course.dir/Student_managment_Project/StudentManagment.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course.dir

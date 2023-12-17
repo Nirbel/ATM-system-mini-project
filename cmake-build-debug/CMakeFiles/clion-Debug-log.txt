@@ -1,14 +1,4 @@
 "C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\Alpha\CLionProjects\Master C++ Programming From Beginner To Advance 2023 Edition_course" -B "C:\Users\Alpha\CLionProjects\Master C++ Programming From Beginner To Advance 2023 Edition_course\cmake-build-debug"
--- Configuring done (0.2s)
-CMake Error at CMakeLists.txt:6 (add_executable):
-  Cannot find source file:
-
-    Section5 Program Structure/FirstCProgram.cpp
-
-
-CMake Error at CMakeLists.txt:6 (add_executable):
-  No SOURCES given to target:
-  Master_C___Programming_From_Beginner_To_Advance_2023_Edition_course
-
-
-CMake Generate step failed.  Build files cannot be regenerated correctly.
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/Alpha/CLionProjects/Master C++ Programming From Beginner To Advance 2023 Edition_course/cmake-build-debug
